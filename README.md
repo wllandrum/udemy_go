@@ -1,2 +1,2 @@
 # udemy_go
-gland on udemy training
+golang udemy training by Todd McLeod
